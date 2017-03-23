@@ -1,37 +1,32 @@
-﻿<h1>Stundenübersicht</h1>
+<h1>Stundenübersicht</h1>
 
 <p><h3>Montag, 05.12.2016</h3></p>
-
-Ideenfindung und generelle Konzeptentwicklung für das neue Projekt.
+Ideenenfindung und allgemeine Konzeptentwicklung
+Wir habens uns am ersten Tag unseres neuen Projets zusammengesezt und uns gedanken darüber gemacht, was wir dafür machen wollten. Für einen generellen Eindruck, wo unsere Vorstellungen hinführten, stellten wir uns unsere älteren Projekte vor. Die Diskussion brachte uns schnell auf eine Idee für das neue Projet. Es sollte ein Jump n Run werden. Um die Gedanken besser sortiern zu könne erstellten wir eine Liste in GoogleDrive, damit jeder zu Hause darauf zugriff hat und gegebenenfalls noch Änderungen eintragen konnte.
 
 <p><h3>Montag, 12.12.2016</h3></p>
-
-Wir haben uns in die Entwicklungsprogramme Greenfoot und MonoGame eingearbeitet. 
-MonoGame konnten wir uns mithilfe des Videos "MoonTaxi" auf YouTube ansehen.  
+Wir sind uns nun darüber einig ein Jump n Run zu schreiben. Es gab die Möglichkeit mit Greenfoot zu arbeiten, wofür wir auch Bücher in der Schule haben. Es gab aber auch den Vorschlag die Sache mit MonoGame anzugehen. Das hieße nur, das wir uns dafür selber darum kümmern mussen, Lösungen für Probleme zu finden. Diese fanden sich sehr leicht im Internet auf YouTube. Dort gibt es einige Tutorial Viedos, wie man mit MonoGame arbeitet, die gut und verstandlich für ein eigenes Projekt umgesezt werden können.  
 (Link: https://www.youtube.com/watch?v=1VWGGs6axYc&t=778s&list=PLFOBQ8ri3LGwPnbKuZuPxbTZgB5dGPxkB&index=1)   
-Somit konnten wir die beiden Programme vergleichen. Die Entscheidung fiel schließlich auf MonoGame.
+Ein weiterer wichtiger Aspekt ist, das man das "Spiel" sofort mit F5 ausführen kann. Dadurch kann man einfacher Fehler erkennen und diese beheben. Somit haben wir uns gegen Greenfoot und für MonoGame entschieden. 
 
 <p><h3>Montag, 16.01.2017</h3></p>
 
-An diesem Tag entstanden die ersten Ideen für die Geschichte unseres neuen Projektes. 
-In der Klasse haben wir dazu unsere Projekte der ersten Abgabe besprochen.
+Nun machten wir uns an die Storyentwicklung. Um festzulegen, was unser Charakter macht und wer er eigentlich ist, mussten wir uns überlegnen, welche Handlung passieren und welche Rolle der Charakter darin einnehmen soll. Auf den Wortwitz "Duckventure", abgeleitet von "Duck" und "Adventure" sind wir auf den Namen "Duckventure" gestoßen. Damit legten wir fest, dass der Charakter eine Ente sein soll. Die Vorgeschichte, die wir uns überlegten, sollten Hilfen für die eigentliche Handlung während des Spielens sein. Mann stellte sich also einen kalten zugefrorenen See vor, da es zu dieser Jareszeit immer noch sehr winterlich ist. Im Schutz unter den kahlen Ästen der Bäumen, die am Rand des Sees der Kälte trotzen, sitzt eine kleine Entenfamilie. Vor ihnen befindet sich ein Loch in der Eisdecke, wo die Mutter manchmal zähe Algen herrausfischt. In diesem Augenblick machen beide ein schläfchen. Man wundert sich, das die Füße auf dem klebrigen Eis nicht festfrieren, da beginnt sich das jüngere Entlein zu bewegen. Es reckt den Kopf in die Höhe und schüttelt sein Gefider. Ein wenig schläfrig watschelt es zum Loch hinüber, wo das Wasser in aufgeregten Welllen auf und nieder geht. In Mitten des Weges stoppt es kurtz, wirft einen Blick nach hinten. Die Mutterente schläft noch. Sodann läuft das Entlein, nun ermuntert auf das Loch zu und... fällt hinein. Die Mutter erwacht vor Scheck und das Entlein war weg und die Spuren gleich mit dazu. 
+So ist es also zu der Vorgeschichte gekommen. Ob das Entlein nun etwas im Wasser gesehen hat, oder duch eigenes Ungeschick in dem Loch verschwunden ist, ist nicht bekannt. Bekannt ist aber, das man das Entlein auf dem Weg zurück nach Hause begleitet.
+Weiter haben wir dann in der Klasse unsere Projekte der ersten Abgabe im Plenum         besprochen.
 
 <p><h3>Montag, 23.01.2017</h3></p>
 
-In der Klasse haben wir über GitHub-Pages gesprochen und wie wir weitere Funktionen der Seite nutzen können, so wie den nächsten Abgabetermin festgelegt. 
-In dieser Stunde haben wir mit dem Codieren in unserem Projekt in MonoGame begonnen.
+In diese Stunde hat die ganzen Klasse über GitHub-Pages gesprochen und wie wir weitere Funktionen der Seite nutzen können. Es wurde auch der nächsten Abgabetermin festgelegt. 
+In dieser Stunde haben wir uns die Vorkentnisse aus den Tutorial-Videos für MonoGame zu nutze gemacht und ein Projekt in MonoGame erstelt. Dafür mussten wie zuerst Visual Studios instalieren. Dannach folge Monogame und nach einigen Einstellungen, zum Einrichten haben wir auch gelich mit dem codieren angefangen.
 
 <p><h3>Donnerstag, 26.01.2017</h3></p>
 
-In der Ersten der Doppelstunden haben wir ein Google-Dokument erstellt. 
-In diesem Dokument dokumentierten wir die Arbeit für GitHub, die wir weiter ausformulieren wollten. 
-Es beinhaltet zum Beispiel wie man MonoGame installiert und auf welche Funktionen man achten sollte.
-Dazu haben wir weitere Schritte für das Erstellen eines Projektes in MonoGame beschrieben.
+In der Ersten der Doppelstunden haben wir unser Google-Dokument weiter ausgeführt. Zum einen Dokumentierten wir unsere Arbeit von der voriegen Stunde, um ein Tutorial für das Anlegen eines MonoGame-Projektes zu machen. Zum anderen arbeiteten wir weiter an unserem Projekt selbst weiter. 
 
 <p><h3>Dienstag, 07.02.2017</h3></p>
 
-Stefan gab eine sehr informative Vorstellung über GitHub-Pages. Die Präsentation kann man sich auf GitHub erneut anschauen, was einem neue Möglichkeiten bietet mit der Seite zu arbeiten. 
-Wir können zum Beispiel ein html-Dokument mit einer Designvorlage erstellen und diese auf GitHub hochladen. 
+Diese Unterrichtseinheit wurde von Stefans Präsentation und Vorstellung einiger Features von GitHub-Pages gefüllt. Er zeigte uns, wie man eine html-Seite schreiben kann und dass man den Text in dafür vorgefertigte Layouts darstellen kann. Die Präsentation kann man sich auf GitHub erneut anschauen, was einem die Möglichkeiten bietet sich bei Fragen nocheinmal die gezeigten Beispiel durchzulesen.
 	
 <p><h3>Donnerstag, 09.02.2017</h3></p>
 
@@ -51,6 +46,7 @@ Am Ende der Stunde schauten und testeten wir die Projekte der anderen Gruppen.
 
 <p><h3>Dienstag, 21.02.2017</h3></p>
 
+Der erste Abgabetermin stand an, also überprüften wir unsere Rechtschreibung in der Dokumentation und in dem Diary-Eintarg. 
 - Verbessern der Rechtschreibung für Dokumentation und Diary
 - Hinzufügen von style.css für Dokumentation
 - Umbennnen der Bilder für Dokumentation
