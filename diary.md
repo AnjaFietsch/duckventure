@@ -11,9 +11,9 @@ Ein weiterer wichtiger Aspekt ist, das man das "Spiel" sofort mit F5 ausführen 
 
 <p><h3>Montag, 16.01.2017</h3></p>
 
-Nun machten wir uns an die Storyentwicklung. Um festzulegen, was unser Charakter macht und wer er eigentlich ist, mussten wir uns überlegnen, welche Handlung passieren und welche Rolle der Charakter darin einnehmen soll. Auf den Wortwitz "Duckventure", abgeleitet von "Duck" und "Adventure" sind wir auf den Namen "Duckventure" gestoßen. Damit legten wir fest, dass der Charakter eine Ente sein soll. Die Vorgeschichte, die wir uns überlegten, sollten Hilfen für die eigentliche Handlung während des Spielens sein. Mann stellte sich also einen kalten zugefrorenen See vor, da es zu dieser Jareszeit immer noch sehr winterlich ist. Im Schutz unter den kahlen Ästen der Bäumen, die am Rand des Sees der Kälte trotzen, sitzt eine kleine Entenfamilie. Vor ihnen befindet sich ein Loch in der Eisdecke, wo die Mutter manchmal zähe Algen herrausfischt. In diesem Augenblick machen beide ein schläfchen. Man wundert sich, das die Füße auf dem klebrigen Eis nicht festfrieren, da beginnt sich das jüngere Entlein zu bewegen. Es reckt den Kopf in die Höhe und schüttelt sein Gefider. Ein wenig schläfrig watschelt es zum Loch hinüber, wo das Wasser in aufgeregten Welllen auf und nieder geht. In Mitten des Weges stoppt es kurtz, wirft einen Blick nach hinten. Die Mutterente schläft noch. Sodann läuft das Entlein, nun ermuntert auf das Loch zu und... fällt hinein. Die Mutter erwacht vor Scheck und das Entlein war weg und die Spuren gleich mit dazu. 
+Nun machten wir uns an die Storyentwicklung. Um festzulegen, was unser Charakter macht und wer er eigentlich ist, mussten wir uns überlegnen, welche Handlung passieren und welche Rolle der Charakter darin einnehmen soll. Auf den Wortwitz "Duckventure", abgeleitet von "Duck" und "Adventure" sind wir auf den Namen "Duckventure" gestoßen. Damit legten wir fest, dass der Charakter eine Ente sein soll. Die Vorgeschichte, die wir uns überlegten, sollten Hilfen für die eigentliche Handlung während des Spielens sein. Mann stellte sich also einen kalten zugefrorenen See vor, da es zu dieser Jareszeit immer noch sehr winterlich ist. Im Schutz der kahlen Ästen der Bäumen, die am Rand des Sees der Kälte trotzen, sitzt eine kleine Entenfamilie. Vor ihnen befindet sich ein Loch in der Eisdecke, wo die Mutter manchmal zähe Algen herrausfischt. In diesem Augenblick machen beide ein schläfchen. Man wundert sich, das die Füße auf dem klebrigen Eis nicht festfrieren, da beginnt sich das jüngere Entlein zu bewegen. Es reckt den Kopf in die Höhe und schüttelt sein Gefider. Ein wenig schläfrig watschelt es zum Loch hinüber, wo das Wasser in aufgeregten Welllen auf und nieder geht. In Mitten des Weges stoppt es kurz, wirft einen Blick nach hinten. Die Mutterente schläft noch. Sodann läuft das Entlein, nun ermuntert auf das Loch zu und... fällt hinein. Die Mutter erwacht vor Schreck und das Entlein war weg und die Spuren gleich mit dazu. 
 So ist es also zu der Vorgeschichte gekommen. Ob das Entlein nun etwas im Wasser gesehen hat, oder duch eigenes Ungeschick in dem Loch verschwunden ist, ist nicht bekannt. Bekannt ist aber, das man das Entlein auf dem Weg zurück nach Hause begleitet.
-Weiter haben wir dann in der Klasse unsere Projekte der ersten Abgabe im Plenum         besprochen.
+Weiter haben wir dann in der Klasse unsere Projekte der ersten Abgabe im Plenum besprochen.
 
 <p><h3>Montag, 23.01.2017</h3></p>
 
@@ -22,11 +22,11 @@ In dieser Stunde haben wir uns die Vorkentnisse aus den Tutorial-Videos für Mon
 
 <p><h3>Donnerstag, 26.01.2017</h3></p>
 
-In der Ersten der Doppelstunden haben wir unser Google-Dokument weiter ausgeführt. Zum einen Dokumentierten wir unsere Arbeit von der voriegen Stunde, um ein Tutorial für das Anlegen eines MonoGame-Projektes zu machen. Zum anderen arbeiteten wir weiter an unserem Projekt selbst weiter. 
+In der Ersten der Doppelstunden haben wir unser Google-Dokument weiter ausgeführt. Zum einen Dokumentierten wir unsere Arbeit von der voriegen Stunde, um ein Tutorial für das Anlegen eines MonoGame-Projektes zu machen. Zum anderen arbeiteten wir weiter an unserem Projekt selbst. 
 
 <p><h3>Dienstag, 07.02.2017</h3></p>
 
-Diese Unterrichtseinheit wurde von Stefans Präsentation und Vorstellung einiger Features von GitHub-Pages gefüllt. Er zeigte uns, wie man eine html-Seite schreiben kann und dass man den Text in dafür vorgefertigte Layouts darstellen kann. Die Präsentation kann man sich auf GitHub erneut anschauen, was einem die Möglichkeiten bietet sich bei Fragen nocheinmal die gezeigten Beispiel durchzulesen.
+Diese Unterrichtseinheit wurde von Stefans Präsentation und Vorstellung einiger Features von GitHub-Pages gefüllt. Er zeigte uns, wie man eine html-Seite schreiben kann und dass man den Text in dafür vorgefertigte Layouts darstellen kann. Die Präsentation kann man sich auf GitHub erneut anschauen, was einem die Möglichkeiten bietet sich bei Fragen nocheinmal die gezeigten Beispiel durchzulesen. Nach der Präsentation, die eine ganze Stunde eingenommen hatte, starteten wir mit dem ertellen der Dokumentation für unser Projekt. 
 	
 <p><h3>Donnerstag, 09.02.2017</h3></p>
 
@@ -46,18 +46,15 @@ Am Ende der Stunde schauten und testeten wir die Projekte der anderen Gruppen.
 
 <p><h3>Dienstag, 21.02.2017</h3></p>
 
-Der erste Abgabetermin stand an, also überprüften wir unsere Rechtschreibung in der Dokumentation und in dem Diary-Eintarg. 
-- Verbessern der Rechtschreibung für Dokumentation und Diary
-- Hinzufügen von style.css für Dokumentation
-- Umbennnen der Bilder für Dokumentation
+Der erste Abgabetermin stand an, also überprüften wir unsere Rechtschreibung in der Dokumentation und in dem Diary-Eintarg. Verbesserungen fügten wir hinzu und änderten falls nötig noch einige Ausdrucksweisen. Nachdem wir das erledigt hatten fügten wir style.css für unsere Dokumentation hinzu, damit wir die Seite selber gestalten können. Dannach nennten wir einige Bilder für die Dokumentation um.
 
 <p><h3>Donnerstag, 23.02.2017</h3></p>
 
-- Einfügen von Movement des Hauptcharakters (Ente)
-- Verbesserung der Gravitation mit Anpassungen bezüglich des Movements
+Wir fügten, nachdem wir uns die anderen Stunden um die Gravitation gekümmert hatten, das Movement des Hauptcharakters ein. Damit konnten wir die Gravitation noch besser anpassen und auf den Hauptcharakter abstimmen.
 
 <p><h3>Mittwoch, 01.03.2017</h3></p>
 
+Unser Hauptchrakter bekam nun ein Gesicht. Wir implementierten ein selbstgemaltes Bild in das Spiel. Das Bild wurde nur leider zu groß angezeigt, weshalb wir dessen Darstellung anpassten. Enti, so heißt das das PNG in unserem Code bekam einen Scale
 - Implementieren von Ente als Bild
 - Anpassen der Darstellung der Ente bei Änderung der Richtung
 - Einfügen von Scale für Enti (Anfang eines Startbildschirms)
