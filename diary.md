@@ -54,55 +54,34 @@ Wir fügten, nachdem wir uns die anderen Stunden um die Gravitation gekümmert h
 
 <p><h3>Mittwoch, 01.03.2017</h3></p>
 
-Unser Hauptchrakter bekam nun ein Gesicht. Wir implementierten ein selbstgemaltes Bild in das Spiel. Das Bild wurde nur leider zu groß angezeigt, weshalb wir dessen Darstellung anpassten. Enti, so heißt das das PNG in unserem Code bekam einen Scale
-- Implementieren von Ente als Bild
-- Anpassen der Darstellung der Ente bei Änderung der Richtung
-- Einfügen von Scale für Enti (Anfang eines Startbildschirms)
-- Änderungen in Dokument "wurmi to enti"
+Unser Hauptchrakter bekam nun ein Gesicht. Wir implementierten ein selbstgemaltes Bild in das Spiel. Das Bild wurde nur leider zu groß angezeigt, weshalb wir dessen Darstellung anpassten. Für Enti, so heißt das das PNG in unserem Code, fügten wir einen Scale hinzu, sodass sie im Startbildschirm zu sehen ist. Daraufhin tauschten wir den Platzhalter "wurmi" gegen "enti" in unserr Dokumentation aus.
 
 <p><h3>Donnerstag, 02.03.2017</h3></p>
 
-- Begrenzung der Jumpanzahl der Ente
-- Änderungen beim Boden
+Da sich die Ente auch schon richtig bewegen und springen kann, man aber nicht gleic aus der Level flliegen soll, begrenzte wir die Spungzahl auf zwei. Wir nahmen auch noch ein Paar änderungen am Boden vor.
 
 <p><h3>Montag, 06.03.2017</h3></p>
 
 Fachtag unserer Gruppe:
 
-- Hinzufügen von Weltvector für größeren Bewegungsraum der Ente
-- Hinzufügen von Map mit Plattformen
-- Zeichnen von weiteren Bildern
-- Hinzufügen von Kollision (Ente - Plattform)
-- Hinzufügen von Startanimation
+Außerhalb des Unterrichts ergänzten wir eine Map mit Platformen, damit man ein bisschen Abwechslung beim Springen bekommt. Wir nahmen uns die Zeit um Kollisionen zu schreiben, damit der Spieler auch aufpassen muss, wohin sein nächster Zug geht. Immer wenn die Ente den Rand des unteren Bildschirms erreicht, verliert man und wird auf die Startposition zurückgesetzt. Damit sich die Ente in dem Level auch freier bewegen kann, setzten wir noch einen Weltvektor dazu. Wir zeichneten ein Paar neue Bilder, die wir dannach einfügen können, um dem Spiel noch etwas mehr Leben einzuhauchen. Diesmal war es ein Hai und eine Haiflosse. Zum Schluss für diesen Tag volendeten wir einen Startbildschirm. Wenn man das Spiel startet, wird man von einer große gelbe Ente angelacht, die von links in das Bild gleitet.
 
 <p><h3>Mittwoch, 08.03.2017</h3></p>
 
-- Fixen von Jump-Bug und Boden
-- Hinzufügen von Begrenzungen der Map (links und rechts)
-- Hinzufügen von Steuerungshinweis
-- Hinzufügen von Sterbecounter
+Wie es nun mal so kommen musste, schleichen sich von irgendwo kleine Fehler ein, die man wieder zurecht rücken musste. In diesem fall korigierten wir ein problem mit dem Sprung der Ente. Die Map bekam eine Begrenzung Links und Rechts. Jetzt verschwindet die Ente nicht ehr, wenn man zu weit in eine von diesen Richtungen watschelt. Fällt man dan aber doch von einer Plattfor, so setzt sich das Spiel nicht mehr nur zurück, denn man verliert ganz offiziel ein "Leben". Mit dem Sterbecounter kann man somit seine Tode sehne, ohne sie selber zählen zu müssen. Wenn man nun ein Spieler das Speil spielt und nie "stirbt" liegt das wahrscheinlich daran, dass er oder sie sich den Steuerungshinweis angesehen haben. Dannach hat man die Steuerung sofort im griff.  Fixen von Jump-Bug und Boden
 
 <p><h3>Donnerstag, 09.03.2017</h3></p>
 
-- Hinzufügen von Haiflosse mit Bewegungen
+Es war an der Zeit einen bösen Gegenspieleler in die Welt von "Duckventure" zu setzten. Dafür setzten wir die Bilder des hais und der Haiflosse in den Contetn-Ordner für Textures. 
 
 <p><h3>Dienstag, 14.03.2017</h3></p>
 
-- Hinzufügen von HowToPlay mit Klick auf Key P
-- Hinzufügen von Sprung vom Hai (zuerst buggy aber dann einfacher gelöst)
-- Hinzufügen von Wasser- und Plattformzellen + Texturen
+Uns gefiel der Steuerungshinweis nicht ganz so gut, also überarbeiteten wir diesen nochmal. Wenn man jetzt auf die P-Taste Klickt erscheint ein Video in dem die Steuerung viesuell dargestellt wird und nicht mehr nur als Bild im Startbildschirm. Die Haiflosse bekam eine Bewegung, bei der wir uns dachten, der Hai müsse sich von Links nach Rechts um die Ente bewegen. Es war an Verhalten eines Hais nagelehnt, wenn er seine Beute umkreist. Zuerst versuchte wir es mit einer Bewegung, die durch eine Sinusfunktion dargestellt wird. Leider gab es dabei ein wenig Komplikationen, weil der Hai und die Haiflosse nicht genug aufeinander abgestimmt waren. Wir fingen nämlich dannach an dem Hai das Springen beizubringen, nur leider war der Hai zu langsam, oder er sprang an einer Stelle in die Luf, wo die Flosse nicht zu sehen war. Das musste einfacher gelöst werden. Die Lösung fnaden wir mithilfe von "entis" Bewegungsablauf. Die Oberfläche von dem Wasser und den Plattformen frisierten wir auch noch mit einer Wasser und Holzbalkentextur.
 
 <p><h3>Donnerstag, 16.03.2017</h3></p>
 
-- Ändern der Bilder für Ente und Hai
-- Verbessern des Codes (übersichtlicher)
-- Hinzufügen von Haiflossendrehung
-- Erweiterung der Dokumentation
+das Erste, was uns auffiel, als wir das Spiel erneut starteten, war, dass der Hai manchmal rückwärts schwimmt. Wir korriegierten diesen unschönen Fehler so, wie wir die Drehung der Ente errecht hatten. Die Dokumentation und der Code wurden auch nochal aufgefrischt. Im Code kann man sich besser zurecht finden und nachvollziehn, wie die einzelnen Elemente aufgebaut sind.
 
 <p><h3>Dienstag, 21.03.2017</h3></p>
 
-- Vorstellung des Projektes
-- Arbeit an Dokumentation und Tagebuch
-- Optimierung von Zeichenebenen (Hai vor Plattform, vor Ente)
-
-
+Der letzte Tag für die Arbeit unsere Projektes wurde für letzte Feinheiten in Anspruch genommen. Wir optimierten die Zeichenebenen, sodass der Hai vor dem Plaformen und der Ente liegt. Wir tauschten uns auch innerhalb der Klase über die jeweiligen Projete aus und stellten sie uns gegenseitig vor. Zum Schluss nutzen wir die verbleibenden Minuten, das Tagebuch und die Dokumentation zu vervollständigen. 
